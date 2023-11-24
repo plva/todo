@@ -7,6 +7,7 @@
 - read https://unix.stackexchange.com/questions/313577/how-to-make-tmux-sessions-count-from-1-instead-of-0
     - change session start at 0
 - read https://dev.to/iggredible/useful-tmux-configuration-examples-k3g
+- https://github.com/tmuxinator/tmuxinator
 ## pdp
 - being able to write parts of scripts/programs in different languages, with the shell being used as an intermediary
 
@@ -39,3 +40,15 @@
 - set up script/commands for reloading everything I'm changing as needed
     - mostly done in bootstrap
 - go visit Jazz and vicky!
+- set vi hotkeys for zsh
+    - may need to create zsh file that gets sourced in zshrc
+- how to rename a windo
+- use nvim for git
+- add powerline to auto-setup
+    - used instructions fromt https://github.com/powerline/fonts
+    - tried the following but it didnt work
+      - `pip install --user powerline-status`
+    - https://powerline.readthedocs.io/en/latest/installation.html#fonts-installation
+    - couldn't get it to work
+- for glyphs, eventually installed https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/SourceCodePro/Regular/SauceCodeProNerdFontMono-Regular.ttf
+  - can also look at https://github.com/romkatv/powerlevel10k
