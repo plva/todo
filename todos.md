@@ -30,7 +30,8 @@
 - find a place to go camping to
 - start working on confession
 
-
+# doctors appointments
+- go to the doctor tomorrow
 # active todos
 - how to manage multiple git repos, so i can keep track of all the things im working on
 - make a file of actively working on tasks that's my "context" so i have something to fall back on and move
