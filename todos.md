@@ -1,7 +1,4 @@
 # dev todos
-## vim
-- get python ide setup in nvim
-- potentially have different plugins/configs load up in nvim depending on what im developing
 
 # tmux
 - read https://unix.stackexchange.com/questions/313577/how-to-make-tmux-sessions-count-from-1-instead-of-0
@@ -16,10 +13,21 @@
 - personal calendar tool
 - personal todo/issue/project management tool
 
-## learning
-- tmux
-- nvim
 
+## learning to focus on and master
+- (neo)vim
+    - vim plugins
+    - treesitter
+- lua
+- python
+- javascript
+    - and typescript
+- tmux
+- yaml 
+- git
+### maybe focus on
+- zsh/bash fundamentals
+    - read manual esp on builtins, but maybe dont need to master
 
 # life todos
 - debt caller, pay it off?
@@ -30,8 +38,6 @@
 - find a place to go camping to
 - start working on confession
 
-# doctors appointments
-- go to the doctor tomorrow
 # active todos
 - how to manage multiple git repos, so i can keep track of all the things im working on
 - make a file of actively working on tasks that's my "context" so i have something to fall back on and move
@@ -40,11 +46,11 @@
     - should be able to restart everything I'm working on including all the files with a single command
 - set up script/commands for reloading everything I'm changing as needed
     - mostly done in bootstrap
-- go visit Jazz and vicky!
+- how to rename a window
+
+# done
 - set vi hotkeys for zsh
     - may need to create zsh file that gets sourced in zshrc
-- how to rename a windo
-- use nvim for git
 - add powerline to auto-setup
     - used instructions fromt https://github.com/powerline/fonts
     - tried the following but it didnt work
