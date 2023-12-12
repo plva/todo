@@ -36,4 +36,8 @@ This should live in a well-known Ctrl+# hotkey, in a well-known session.
     - otherwise, provide actions i can take on found files/tasks
         - list it by category (project, tag, category, code, documentation)
 # todos
-
+## learning
+- terminial development 
+    - https://xn--rpa.cc/irl/term.html
+    - https://viewsourcecode.org/snaptoken/kilo/02.enteringRawMode.html
+    - https://en.wikipedia.org/wiki/ANSI_escape_code#Colors

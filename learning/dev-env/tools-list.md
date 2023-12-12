@@ -19,4 +19,9 @@
 ## cli helpers
 ### json
 - https://github.com/01mf02/jaq
+### data
+- https://www.visidata.org/
+### cli tool development
+- https://typer.tiangolo.com/
+    - python:
 

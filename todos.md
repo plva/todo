@@ -59,3 +59,26 @@
     - couldn't get it to work
 - for glyphs, eventually installed https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/SourceCodePro/Regular/SauceCodeProNerdFontMono-Regular.ttf
   - can also look at https://github.com/romkatv/powerlevel10k
+
+
+
+# look at now
+- https://github.com/gpakosz/.tmux
+- https://browsersync.io/
+- https://github.com/chjj/blessed
+- https://vitejs.dev/
+- https://www.gnu.org/software/parallel/
+- graphql
+    - w/ typeorm:
+    - https://blog.logrocket.com/build-graphql-typegraphql-typeorm/
+- grpc with protocol buffers
+    - https://grpc.io/docs/what-is-grpc/core-concepts/
+- https://swagger.io/docs/specification/about/
+    - API development and documentation
+    - can we combine this with typeorm / graphql somehow?
+- https://github.com/jesseduffield/lazygit
+- The Silver Searcher (Ag): Code-searching tool similar to ack but faster
+- https://fishshell.com/
+- https://github.com/eradman/entr
+    - Run arbitrary commands when files change
+    - or https://facebook.github.io/watchman/
